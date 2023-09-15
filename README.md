@@ -7,8 +7,6 @@ This tutorial outlines the installation of the open-source help desk ticketing s
 
 <h2>Environments and Technologies Used</h2>
 
-- Microsoft Azure (Virtual Machines/Compute)
-- Remote Desktop
 - Internet Information Services (IIS)
 
 <h2>Operating Systems Used </h2>
