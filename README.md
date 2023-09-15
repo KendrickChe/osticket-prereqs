@@ -2,8 +2,8 @@
 <img src="https://i.imgur.com/Clzj7Xs.png" alt="osTicket logo"/>
 </p>
 
-<h1>osTicket - Prerequisites and Installation</h1>
-This tutorial outlines the prerequisites and installation of the open-source help desk ticketing system osTicket.<br />
+<h1>osTicket - Installation</h1>
+This tutorial outlines the installation of the open-source help desk ticketing system osTicket.<br />
 
 <h2>Environments and Technologies Used</h2>
 
@@ -17,10 +17,8 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 <h2>Installation Steps</h2
                    
-I’m using this offline version to make sure everyone is using the same version of all the files :)
-
 Install / Enable IIS in Windows WITH
-CGI and Common HTTP Features.  Open Control panel and clcik  turn on windows features on/off <img src="https://imgur.com/OyCd2oz.png"/>
+CGI and Common HTTP Features.  Open Control panel and click  turn on windows features on/off <img src="https://imgur.com/OyCd2oz.png"/>
 World Wide Web Services -> Application Development Features ->
 [X] CGI
 [X] Common HTTP Features
